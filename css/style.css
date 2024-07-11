@@ -1,0 +1,52 @@
+.navbar {
+    border-bottom: solid 1px;
+    background-color: #262336;
+    padding-bottom: 0;
+}
+
+.navbar img {
+    position: relative;
+    left: 5px;
+    bottom: 8px;
+    height: 30px;
+    width: 30px;
+}
+
+.navbarlogotext {
+    position: relative;
+    left: 5px;
+}
+
+.navbartext {
+    margin: 0;
+}
+
+.navbartext h6 {
+    margin: 0;
+    font-size: 6px;
+    color: #d7d6db;
+}
+
+.navbartext p {
+    color: #9b98a8;
+    font-size: 5px;
+}
+
+.navbarlinks {
+    color: #68647d;
+    font-size: 8px;
+    display: contents;
+}
+
+.navbarlinks li {
+    display: inline;
+}
+
+.topsection {
+    background-color: #262336;
+}
+
+.topsectiontext1, .topsectiontext3 h6 {
+    background: rgb(2,0,36);
+    background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(200,199,206,1) 35%, rgba(0,212,255,1) 100%);
+}
