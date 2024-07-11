@@ -44,9 +44,151 @@
 
 .topsection {
     background-color: #262336;
+    text-align: center;
 }
 
-.topsectiontext1, .topsectiontext3 h6 {
-    background: rgb(2,0,36);
-    background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(200,199,206,1) 35%, rgba(0,212,255,1) 100%);
+.topsection h6 {
+    color: rgb(2,0,36);
+    color: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(200,199,206,1) 35%, rgba(0,212,255,1) 100%);
+}
+
+.topsectiontext2 h5 {
+    color: white;
+}
+
+.topsectiontext4 {
+    color: #9b98a8;
+    font-size: 5px;
+}
+
+.topsection button {
+    height: 20px;
+    width: 61px;
+    font-size: 9px;
+    position: relative;
+    left: 136px;
+    bottom: 10px;
+    border-radius: 5px;
+    color: white;
+    background-color: #9c96b8;
+}
+
+.middletopsection {
+    background-color: #f29b66;
+    padding: 10px;
+}
+
+.mtsec1item1 img {
+    height: 40px;
+    width: 40px;
+    position: relative;
+    left: 134px;
+    top: 3px;
+}
+
+.mtsec1item2, .mtsec1item3 {
+    text-align: center;
+}
+
+.mtsec1item2 h6 {
+    margin: 0;
+    color: white;
+}
+
+.mtsec1item2 p {
+    margin: 0;
+    color: #dad9de;
+}
+
+.mtsec2item1 img {
+    height: 40px;
+    width: 40px;
+    position: relative;
+    left: 134px;
+    top: 3px;
+}
+
+.mtsec2item2 {
+    text-align: center;
+}
+
+.mtsec2item2 h6 {
+    margin: 0;
+    color: white;
+}
+
+.mtsec2item2 p {
+    margin: 0;
+    color: #dad9de;
+}
+
+.mtsec2item3 {
+    text-align: center;
+}
+
+.mtsec3item1 img {
+    height: 40px;
+    width: 40px;
+    position: relative;
+    left: 134px;
+    top: 3px;
+}
+
+.mtsec3item2 {
+    text-align: center;
+}
+
+.mtsec3item2 h6 {
+    color: white;
+    margin: 0;
+}
+
+.mtsec3item2 p {
+    margin: 0;
+    color: #dad9de;
+}
+
+.mtsec3item3 {
+    text-align: center;
+}
+
+.mtsec4item1 img {
+    height: 40px;
+    width: 40px;
+    position: relative;
+    left: 134px;
+    top: 3px;
+}
+
+.mtsec4item2 {
+    text-align: center;
+}
+
+.mtsec4item2 h6 {
+    color: white;
+    margin: 0;
+}
+
+.mtsec4item2 p {
+    margin: 0;
+    color: #dad9de;
+}
+
+.mtsec4item3 {
+    text-align: center;
+}
+
+.bottommiddle {
+    background-color: #e8e8ea;
+}
+
+.botmiddleimages img {
+    height: 332px;
+    width: 300px;
+    padding: 3px;
+    margin: 7px;
+}
+
+.bottomsection {
+    background-color: #262336;
 }
